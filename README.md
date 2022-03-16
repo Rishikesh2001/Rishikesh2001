@@ -1,4 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rishikesh Pashte</h1>
+- 🌱 I’m currently learning **Vue, Typescript, Machine Learning, Flutter**
+
+- 📫 How to reach me **rishikeshpashte223@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
